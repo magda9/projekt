@@ -1,0 +1,5 @@
+c:\users\magda\documents\visual studio 2010\Projects\AdoDemo\AdoDemo\bin\AdoDemo.dll
+c:\users\magda\documents\visual studio 2010\Projects\AdoDemo\AdoDemo\bin\AdoDemo.pdb
+c:\users\magda\documents\visual studio 2010\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.dll
+c:\users\magda\documents\visual studio 2010\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.pdb
+C:\Users\Magda\documents\visual studio 2010\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.csprojResolveAssemblyReference.cache
